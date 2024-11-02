@@ -2,4 +2,5 @@
 *.xlsx
 *.geojson
 *.json
+*.html
 data/*
