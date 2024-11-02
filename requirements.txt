@@ -1,0 +1,9 @@
+openpyxl
+pandas
+numpy
+seaborn
+matplotlib
+folium
+ipython
+geopandas
+shapely
